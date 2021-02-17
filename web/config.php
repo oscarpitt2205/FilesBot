@@ -22,7 +22,7 @@ else {
 }
 
 $GLOBALS["START_MESSAGE"] = <<<EOM
-Thank you for using me </a>
+Thank you for using me
 
 This bot is exclusively for @udemytree subsribers
 
